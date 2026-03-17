@@ -1,4 +1,8 @@
 # Javascript Calculator
+About
+A simple calculator built using HTML, CSS and JavaScript
+
+https://alexflorides.github.io/javascript-calculator/
 
 ---
 
